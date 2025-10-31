@@ -1,4 +1,4 @@
-icon: fas
+
 Hi, I’m Kaleli Benedict, a passionate and purpose-driven Machine Learning and Data Science enthusiast on a continuous journey to turn data into insight, automation, and real-world impact.
 Here’s a quick look at what I do:
 
