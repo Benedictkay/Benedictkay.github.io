@@ -14,7 +14,7 @@ timezone: Nairobi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Kaleli Benedict Blogs# the main title
+title: Kaleli Benedict Blogs # the main title
 
 tagline: Data Science | AI | ML | Deep Learning # it will display as the subtitle
 
