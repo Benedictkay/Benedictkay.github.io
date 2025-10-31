@@ -1,7 +1,7 @@
 ---
 layout: About
 icon: fas fa-about
-order: 3
+order: 4
 ---
 
 
